@@ -14,4 +14,4 @@
 
 # Дополнительная информация
 Добавлена блок-схема алгоритма решения задачи
-![блок-схема](/block_diagram/block%20diagram.png)
+![блок-схема](/block_diagram/block%20diagram.png)![block diagram](https://user-images.githubusercontent.com/98515879/225874634-73116227-63d8-42d1-8c56-52673104322a.png)
